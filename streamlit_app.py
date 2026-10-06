@@ -6,7 +6,7 @@ import streamlit as st
 
 
 st.set_page_config(
-    page_title="Streamlit 요소 실습실",
+    page_title="이게뭐에요..?",
     page_icon="🧪",
     layout="wide",
 )
